@@ -1,0 +1,4 @@
+1.Open Postman, use the Admin credentials to call the authentication API, and obtain the token.
+2.Navigate to the Authorization tab, select Bearer Token, enter the token, and execute the GET APIs to see the results.
+3.We can now access role-based APIs defined in the Product controller.
+4. try will user credentials also
